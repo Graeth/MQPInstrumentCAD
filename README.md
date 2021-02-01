@@ -9,11 +9,16 @@
 
 **Motor mount** 
 
+**Motor controller** x5
+
+**Motor controller mount** x5
+[Link)(https://www.thingiverse.com/thing:773672)
+
 **M3 for motor, M5 for load cell, M5 bolt for load cell** x5
 
 **Photoresistor housing** x1
 
-**Instrument body (Body.ipt)** x1
+**Instrument body (instrumentBody.iam)** x1
 
 **PCB** x1
 [Link](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/)
@@ -23,7 +28,3 @@
 
 ## Notes
 
-25.5in string at least
-get string spacing
-
-1/8 inch wood
