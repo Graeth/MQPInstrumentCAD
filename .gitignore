@@ -1,2 +1,4 @@
 *.lck
 OldVersions/ 
+README.md*
+!README.md
