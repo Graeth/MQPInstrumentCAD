@@ -12,7 +12,7 @@
 **Motor controller** x5
 
 **Motor controller mount** x5
-[Link)(https://www.thingiverse.com/thing:773672)
+[Link](https://www.thingiverse.com/thing:773672)
 
 **M3 for motor, M5 for load cell, M5 bolt for load cell** x5
 
