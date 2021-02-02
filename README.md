@@ -7,11 +7,15 @@
 **Motor (Motor.ipt)** x5
 [Link](https://www.pololu.com/product/4751)
 
-**Motor mount** 
+**Motor mount (MotorMount.ipt)** x5
+
+**Nut (Nut.ipt)** x1
+
+**Tuning peg (TuningPeg.ipt)** x5
 
 **Motor controller** x5
 
-**Motor controller mount** x5
+**Motor controller mount (MotorControllerMountSTL/)** x5
 [Link](https://www.thingiverse.com/thing:773672)
 
 **M3 for motor, M5 for load cell, M5 bolt for load cell** x5
@@ -19,12 +23,10 @@
 **Photoresistor housing** x1
 
 **Instrument body (instrumentBody.iam)** x1
+ (bodyBotPlate.ipt) x1 (bodySidePlate.ipt) x2 (bodyTopPlate) x1
 
 **PCB** x1
 [Link](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/)
 
 **Pickup** x1
 [Link](https://www.sweetwater.com/store/detail/SSL-5--seymour-duncan-ssl-5-custom-staggered-pole-strat-pickup)
-
-## Notes
-
